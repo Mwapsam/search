@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Module 1 - Capstone Project
+# Product Search Using JavaScript
 
 > In this project I used HTML, CSS & JavaScript to display and search products. I used JavaScript to populate HTML dynamically. 
 
