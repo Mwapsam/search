@@ -2,7 +2,7 @@
 
 # Module 1 - Capstone Project
 
-> Building my first Capstone project to apply the concepts learned in order to enhance my skills in HTML, CSS & JavaScript.
+> In this project I used HTML, CSS & JavaScript to display and search products. I used JavaScript to populate HTML dynamically. 
 
 ![screenshot](./img/Screenshot.png)
 
@@ -27,8 +27,8 @@ Additional description about the project and its features.
 **To get a copy of this repo into your local machine run the following command:**
 
 ```
-git clone https://github.com/Mwapsam/capstone-m1
-cd capstone-m1
+git clone https://github.com/Mwapsam/search
+cd search
 in visual studio code you can click the go live button to view it live in the browser.
 ```
 
